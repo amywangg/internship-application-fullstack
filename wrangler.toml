@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "amy-wang-app"
 type = "javascript"
-account_id = ""
+account_id = "e027432314ecc4de9f17c140b4278639"
 workers_dev = true
 route = ""
 zone_id = ""
